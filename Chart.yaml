@@ -3,6 +3,7 @@ name: unopinionated-helm-chart
 version: 1.0.0
 description: Install and configure anything.
 home: https://github.com/ericlarssen/unopinionated-helm-chart
+icon: https://i.imgur.com/s4dTtBy.jpg
 maintainers:
   - name: Eric Larssen
     email: elarssen91@gmail.com
