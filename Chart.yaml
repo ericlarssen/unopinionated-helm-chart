@@ -1,0 +1,10 @@
+apiVersion: v2
+name: unopinionated-helm-chart
+version: 1.0.0
+description: Install and configure anything.
+home: https://github.com/ericlarssen/unopinionated-helm-chart
+maintainers:
+  - name: Eric Larssen
+    email: elarssen91@gmail.com
+sources:
+  - https://github.com/ericlarssen/unopinionated-helm-chart
